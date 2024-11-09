@@ -1,6 +1,6 @@
 /*estilo de cuerpo*/
 body{
-    background-image: url('../assets/img/fondo_batman.jpg');
+    background-image: url('../img/fondo_batman.jpg');
     background-size: cover;
     background-position: center;
     font-family: "Faculty Glyphic", sans-serif;
@@ -10,7 +10,7 @@ body{
 /*imagen de batman*/
 .imgBatman{
     text-align: center;
-    background-color: #E6E6E6;
+    background-color: #e6e6e6;
 }
 /*estilos de h1*/
 h1{
