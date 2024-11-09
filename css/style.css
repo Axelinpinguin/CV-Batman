@@ -1,6 +1,6 @@
 /*estilo de cuerpo*/
 body{
-    background-image: url('./assets/img/fondo_batman.jpg');
+    background-image: url('../assets/img/fondo_batman.jpg');
     background-size: cover;
     background-position: center;
     font-family: "Faculty Glyphic", sans-serif;
